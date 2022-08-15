@@ -10,5 +10,5 @@ Implemented in C#. Used WinForms as GUI with System.Drawing to display cells.
 The algorithm has time and space complexity of ***O(M\*N)***, where M and N represent rows and columns respectively.  
 Currently work in progress. Different implementations of Life are planned.
 
-## Preview
+## Preview (gif)
 ![gif](ConwaysLife/docs/images/1.gif)
