@@ -6,7 +6,7 @@ Conditions:
 * If a square has 3 cell neighbors, a cell is spawned in that spot.
 * If a cell has less than 2 or more than 3 cell neighbors, the cell dies.
 
-Implemented in C# with WinForms as GUI.  
+Implemented in C#. Used WinForms as GUI with System.Drawing to display cells.  
 The algorithm has time and space complexity of ***O(M\*N)***, where M and N represent rows and columns respectively.  
 Currently work in progress. Different implementations of Life are planned.
 
