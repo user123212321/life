@@ -7,8 +7,8 @@ Conditions:
 * If a cell has less than 2 or more than 3 cell neighbors, the cell dies.
 
 Implemented in C# with WinForms as GUI.  
-The algorithm has time and space complexity of O(M*N), where M and N represent rows and columns respectively.  
-Currently work in progress, different implementations of Life are pending.
+The algorithm has time and space complexity of ***O(M\*N)***, where M and N represent rows and columns respectively.  
+Currently work in progress. Different implementations of Life are planned.
 
 ## Preview
 ![gif](ConwaysLife/docs/images/1.gif)
